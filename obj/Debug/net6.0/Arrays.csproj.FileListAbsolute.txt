@@ -1,0 +1,15 @@
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\.dotnet projects\C#\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\.dotnet projects\C#\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\.dotnet projects\C#\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\.dotnet projects\C#\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\.dotnet projects\C#\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\.dotnet projects\C#\Arrays\obj\Debug\net6.0\ref\Arrays.dll
