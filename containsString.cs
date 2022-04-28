@@ -6,7 +6,7 @@ namespace Arrays
         static void Main(string[] args)
         {
             string checkHello = "hello";
-            string[] messages = { "hello", "world", "kamusta", "mundo", "christian" };
+            string[] messages = { "hello", "world", "kamusta", "mundo" };
 
             // matching string using LINQ method efficiently
 
